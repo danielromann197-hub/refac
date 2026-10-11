@@ -1,0 +1,18 @@
+{
+  "name": "RefacPro | Gestión de refaccionaria",
+  "short_name": "RefacPro",
+  "description": "Sistema de demostración para administrar una refaccionaria",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
